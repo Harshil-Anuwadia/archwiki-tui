@@ -69,10 +69,5 @@ See [CHANGELOG.md](CHANGELOG.md) for release history.
 ## License
 
 [MIT](LICENSE). 
-
-<a href="https://github.com/sponsors/Harshil-Anuwadia">
-  <img src="https://img.shields.io/badge/Sponsor-EA4AAA?logo=githubsponsors&logoColor=fff&style=for-the-badge" alt="Sponsor Harshil-Anuwadia" />
-</a>
-
 ---
 *I use Arch btw.*
