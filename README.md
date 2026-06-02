@@ -70,5 +70,7 @@ See [CHANGELOG.md](CHANGELOG.md) for release history.
 
 [MIT](LICENSE). 
 
+<iframe src="https://github.com/sponsors/Harshil-Anuwadia/card" title="Sponsor Harshil-Anuwadia" height="225" width="600" style="border: 0;"></iframe>
+
 ---
 *I use Arch btw.*
